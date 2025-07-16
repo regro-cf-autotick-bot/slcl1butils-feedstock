@@ -42,6 +42,7 @@ requirements:
     - holoviews
     - geoviews
     - pyogrio
+    - rioxarray
 
 test:
   imports:
